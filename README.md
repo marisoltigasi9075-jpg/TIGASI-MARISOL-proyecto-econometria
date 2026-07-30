@@ -84,3 +84,11 @@ proyecto-var-ecuador/
 - Statsmodels
 - Matplotlib
 - Jupyter Notebook
+
+## Enlaces del proyecto
+
+Repositorio GitHub:
+https://github.com/marisoltigasi9075-jpg/TIGASI-MARISOL-proyecto-econometria
+
+Dashboard en Vercel:
+https://tigasi-marisol-proyecto-econometria.vercel.app
