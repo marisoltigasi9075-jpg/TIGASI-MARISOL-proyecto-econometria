@@ -65,7 +65,7 @@ Los resultados muestran que:
 
 ```
 proyecto-var-ecuador/
-│
+│.agent/ agent.py
 ├── data/
 ├── notebooks/
 ├── outputs/
