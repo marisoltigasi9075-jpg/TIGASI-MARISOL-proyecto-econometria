@@ -1,0 +1,19 @@
+REPORTE DEL AGENTE
+==================================================
+
+✅ Carpeta encontrada: data
+✅ Carpeta encontrada: outputs
+✅ Carpeta encontrada: notebooks
+✅ Carpeta encontrada: dashboard
+✅ Carpeta encontrada: paper
+✅ Carpeta encontrada: src
+✅ Carpeta encontrada: prompts
+✅ Archivo encontrado: base_VAR_Ecuador.csv
+✅ Filas: 18
+✅ Columnas: 4
+✅ No existen valores nulos.
+✅ No existen registros duplicados.
+❌ Falta src/obtener_datos.py
+❌ Falta src/limpiar_datos.py
+❌ Falta src/estimar_modelo.py
+❌ Falta src/generar_resultados.py
